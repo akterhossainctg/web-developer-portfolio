@@ -1,6 +1,6 @@
 /* common shared style */
 body { 
-    font-family: 'Lapto', sans-serif;
+    font-family: 'Lato', sans-serif;
     font-family: 'Open sans' sans-serif;
    
 }
@@ -92,4 +92,33 @@ nav li {
     margin: 130px 0px;
     text-align: center;
     margin: 130px 0;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+
+}
+.about-info{
+    text-align: center;
+}
+#what-i-do-description{
+    padding: 30px 150px;
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+}
+.skills{
+    padding: 30px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    width: 260px;
+
+}
+.skills-description{
+
+   
+    
 }
