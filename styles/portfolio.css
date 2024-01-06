@@ -30,8 +30,17 @@ nav {
 nav > ul {
     display: flex;
     align-items: center;
+    margin: 0 200px;
 }
 nav li {
     list-style: none;
     margin-right: 50px;
+}
+
+/* header relates style */
+.header{
+    background-color:#FFF8F3;;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
 }
